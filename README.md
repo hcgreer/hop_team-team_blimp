@@ -1,3 +1,9 @@
+## Team
+[Smita Misra](https://github.com/smitamisra),
+[Asha Maheshwari](https://github.com/ashamaheshwari),
+[Tim Simpson](https://github.com/tjsimpson524)
+
+
 # Hop Teaming Analysis
 
 For this project, you will be working with the Hop Teaming dataset, a dataset which aims to capture referrals between healthcare providers based on Medicare claims. The 2018 Hop Teaming dataset can be downloaded [here](https://drive.google.com/file/d/1t2-qcCSmXCFBJ-xvbRvMc2Nlu9VTsZts/view?usp=sharing). More information about the Hop Teaming data can be found at https://careset.com/docgraph-hop-teaming-dataset/. 
